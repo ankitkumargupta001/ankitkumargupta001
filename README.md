@@ -1,4 +1,4 @@
-![image](https://github.com/ankitkumargupta001/ankitkumargupta001/bg.png)
+![image](https://github.com/ankitkumargupta001/ankitkumargupta001/blob/main/bg.png)
 
 - 📍 Living in Mumbai, India
 - I work as a backend-heavy software engineer building scalable systems that handle millions of users. Mostly using Python, JavaScript, Java, Go.
