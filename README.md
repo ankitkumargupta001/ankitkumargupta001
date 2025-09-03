@@ -8,7 +8,7 @@
 - General mails at kumarguptaankit001@gmail.com
 
 **Work experience**
-- Software Development Engineer II at [Jio Platforms Limited](https://www.jio.com/). Leading backend systems for JioTV platform serving millions of users.
+- Software Development Engineer II at [Jio Platforms Limited - Jio Media](https://www.jiotv.com/). Leading backend systems for JioTV platform serving millions of users.
 - Software Development Engineer (Part-time) at [Goglocal Private Limited](https://goglocal.live). Built full-stack solutions and data visualization tools.
 - Software Development Engineer Intern at [Jio Platforms Limited - MyJio](https://www.jio.com/). Developed microservices for 13.2M daily users.
 
