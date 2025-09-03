@@ -29,6 +29,6 @@
 <!--Languages and Tools Section--> 
 **Languages and Tools**      
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,go,js,ts,cpp,html,css,react,nextjs,nodejs,express,fastapi,spring,postgres,mysql,mongodb,cassandra,redis,docker,kubernetes,gcp,aws,git,github,vscode,postman,linux,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=cpp,ts,js,python,java,go,mysql,nestjs,react,nextjs,fastapi,nodejs,solidity,mysql,mongodb,rabbitmq,elasticsearch,firebase,docker,kubernetes,gcp,azure,git,github,figma"/>
 </p>
 <br />
